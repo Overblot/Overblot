@@ -32,5 +32,7 @@ $\color{#389c6b}\textsf{i dont really have a dni apart from like the general dni
 <p align="center">
   <img width="496" height="19" alt="4" src="https://github.com/user-attachments/assets/fe0fe8fd-276d-462c-b7ac-1872b950f16c" />
 </p>
+<p align="center">
+<img width="99" height="56" alt="12" src="https://github.com/user-attachments/assets/fef04f70-98b2-42a6-a80c-23ad2f44f9b8"((https://pursuitcore.atabook.org)>
 
 
