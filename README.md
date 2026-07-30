@@ -12,10 +12,25 @@
 <img width="24" height="24" alt="2" src="https://github.com/user-attachments/assets/a9fc4e44-cbd4-4aae-b3e2-7f2c944a0e8e" />
   $\color{#194731}\textsf{"baby can we talk?"}$ 
   <img width="24" height="24" alt="2" src="https://github.com/user-attachments/assets/a9fc4e44-cbd4-4aae-b3e2-7f2c944a0e8e" /> 
-  $\color{#194731}\textsf{}$ 
 </p>
 <p align="center">
- <img width="568" height="40" alt="6" src="https://github.com/user-attachments/assets/b76f697d-ee60-4eee-bfa1-c6d69d6ab664" />
-
+ $\color{#389c6b}\textsf{19 | adhd | infp-t | 5w6 }$
+ </p>
+ <p align="center">
+   <img width="20" height="20" alt="18" src="https://github.com/user-attachments/assets/892cdb10-e1ef-4b76-8d96-2f3e9faba2a0" />
+ $\color{#389c6b}\textsf{he/it. chat usually off w2i }$
+ <img width="20" height="20" alt="18" src="https://github.com/user-attachments/assets/e6004d2f-90b7-4cef-9ff3-fd14bb1d8b74" />
 </p>
+<p align="center">
+$\color{#389c6b}\textsf{c*h heavliy enc ✧ dncopy }$
+</p>
+<p align="center">
+  <img width="18" height="18" alt="3" src="https://github.com/user-attachments/assets/8eb074ce-9cec-477a-9dc7-b361861d622f" />
+$\color{#389c6b}\textsf{i dont really have a dni apart from like the general dni}$
+<img width="18" height="18" alt="3" src="https://github.com/user-attachments/assets/1cf9cf63-4b41-4345-870f-583e329691e6" />
+</p>
+<p align="center">
+  <img width="496" height="19" alt="4" src="https://github.com/user-attachments/assets/fe0fe8fd-276d-462c-b7ac-1872b950f16c" />
+</p>
+
 
