@@ -18,24 +18,24 @@
 </p>
 <p align="center">
 <img width="20" height="20" alt="8" src="https://github.com/user-attachments/assets/b6ec9f10-86e8-4905-a6e4-c9a4227ce6c6" />
-  $\color{#61512d}\textsf{"baby can we talk?"}$ 
+  $\color{#593f28}\textsf{"baby can we talk?"}$ 
 <img width="20" height="20" alt="8" src="https://github.com/user-attachments/assets/febe70ba-36d5-45c1-a61f-06f215be2351" />
 </p>
 <p align="center">
- $\color{#8a723b}\textsf{19 | adhd | infp-t | 5w6 }$
+ $\color{#825834}\textsf{19 | adhd | infp-t | 5w6 }$
  </p>
  <p align="center">
  <img width="20" height="20" alt="1" src="https://github.com/user-attachments/assets/bda75d90-9350-400a-a754-4745571ff04b" />
- $\color{#8a723b}\textsf{he/it. chat usually off w2i }$
+ $\color{#825834}\textsf{he/it. chat usually off w2i }$
 <img width="20" height="20" alt="1" src="https://github.com/user-attachments/assets/13c062d1-cdf6-47c8-b41c-a0e5b5cfa317" />
 
 </p>
 <p align="center">
-$\color{#8a723b}\textsf{c*h heavliy enc ✧ dncopy }$
+$\color{#825834}\textsf{c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
  <img width="20" height="20" alt="10" src="https://github.com/user-attachments/assets/74d5da93-fa16-4191-b4f2-119a82fdddae" />
-$\color{#8a723b}\textsf{i dont really have a dni apart from like the general dni}$
+$\color{#825834}\textsf{i dont really have a dni apart from like the general dni}$
 <img width="20" height="20" alt="10" src="https://github.com/user-attachments/assets/993211bf-2328-4810-bddb-9c5c63d7a212" />
 </p>
 <p align="center">
