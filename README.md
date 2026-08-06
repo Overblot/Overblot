@@ -58,7 +58,8 @@ $\color{#bd8d40}\textsf{i dont really have a dni apart from like the general dni
 <img width="350" height="19" alt="26" src="https://github.com/user-attachments/assets/8223ba90-e54f-4726-8a9d-af2968780fa8" />
 <img width="350" height="19" alt="14" src="https://github.com/user-attachments/assets/7e073b01-8172-49d5-a9cf-cafb5ae999dd" />
 <img width="350" height="19" alt="6" src="https://github.com/user-attachments/assets/bcc56c28-52f2-45f7-b975-66d507e2a24f" />
-<img width="350" height="19" alt="5" src="https://github.com/user-attachments/assets/c27b4587-d0d3-40b4-bfec-5d69097ffb9d" />
+<img width="350" height="19" alt="5" src="https://github.com/user-attachments/assets/a96ffbd3-3da7-43ae-bd5d-374b0e8f0aee" />
+
 
 
 
