@@ -23,6 +23,11 @@
   $\color{#c0ffa3}\textsf{"baby can we talk?"}$ 
 <img width="20" height="20" alt="2" src="https://github.com/user-attachments/assets/fa744410-dc3f-4596-a54c-518b69fe04cd" />
 </p>
+<p align="center"
+  
+  $\color{#c0ffa3}\textsf{my name is ben or aspen whichever one you use is up to you}$ 
+</p>
+
 <p align="center">
  $\color{#ffb3a3}\textsf{19 | adhd | infp-t | 5w6 }$
  </p>
