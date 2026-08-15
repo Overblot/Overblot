@@ -20,7 +20,7 @@
 </p>
 <p align="center">
 <img width="20" height="20" alt="2" src="https://github.com/user-attachments/assets/76c38df0-eed7-4036-8da5-47e049c53991" />
-  $\color{#c0ffa3}\textsf{"baby can we talk?"}$ 
+  $\color{#c0ffa3}\textsf{"I'll haunt the west coast"}$ 
 <img width="20" height="20" alt="2" src="https://github.com/user-attachments/assets/fa744410-dc3f-4596-a54c-518b69fe04cd" />
 </p>
 <p align="center"
