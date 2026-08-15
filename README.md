@@ -38,11 +38,11 @@
 
 </p>
 <p align="center">
-$\color{#ffb3a3}\textsf{c*h heavliy enc ✧ dncopy }$
+$\color{#ffd19c}\textsf{c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
  <img width="20" height="20" alt="16" src="https://github.com/user-attachments/assets/08707612-aafa-4469-a5f6-89200d2ba9f9" />
-$\color{#ffb3a3}\textsf{i dont really have a dni apart from like the general dni}$
+$\color{#ffd19c}\textsf{i dont really have a dni apart from like the general dni}$
 <img width="20" height="20" alt="16" src="https://github.com/user-attachments/assets/c75f512a-1aaa-4bb2-84fb-b1166a1f0409" />
 </p>
 <p align="center">
