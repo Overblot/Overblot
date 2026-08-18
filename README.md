@@ -25,7 +25,7 @@
 </p>
 <p align="center"
   
-  $\color{#c0ffa3}\textsf{my name is ben or aspen whichever one you use is up to you}$ 
+  $\color{#c0ffa3}\textsf{my name is ben or falin whichever one you use is up to you}$ 
 </p>
 
 <p align="center">
