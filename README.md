@@ -25,7 +25,7 @@
 </p>
 <p align="center"
   
-  $\color{#c0ffa3}\textsf{my name is ben or waxwell i answer to both anyways so dw abt it}$ 
+  $\color{#c0ffa3}\textsf{my name is ben or kei i answer to both anyways so dw abt it}$ 
 </p>
 
 <p align="center">
